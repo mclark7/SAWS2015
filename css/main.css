@@ -219,9 +219,9 @@ nav a:hover {
 
     .header-container,
     .main aside {
-        -webkit-box-shadow: 0 5px 10px #aaa;
-           -moz-box-shadow: 0 5px 10px #aaa;
-                box-shadow: 0 5px 10px #aaa;
+        -webkit-box-shadow: 0 0px 0px #aaa;
+           -moz-box-shadow: 0 0px 0px #aaa;
+                box-shadow: 0 0px 0px #aaa;
     }
 
 /* ============
